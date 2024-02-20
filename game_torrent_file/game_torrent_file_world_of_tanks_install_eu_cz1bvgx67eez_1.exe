@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="../../css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    
+<title>World of Tanks (Мир Танков)</title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="/static/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="/static/assets/css/templatemo-lugx-gaming.css">
+    <link rel="stylesheet" href="/static/assets/css/owl.css">
+    <link rel="stylesheet" href="/static/assets/css/animate.css">
+    <link rel="stylesheet" href="../../swiper%407.4.1/swiper-bundle.min.css">
+  </head>
+
+<body>
+
+    <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+    <header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.html" class="logo">
+                        <img src="assets/images/logo.png" alt="" style="width: 158px;">
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li><a href="/" >Home</a></li>
+                        <li><a href="/shop/" >Our Shop</a></li>
+                        <li><a href="/contact/" >Contact Us</a></li>
+                        
+                        <li><a href="#">w1nter</a></li>
+                        <li><a href="/logout/">Logout</a></li>
+                        
+                    </ul> 
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+  </header>
+    
+    
+
+  <div class="page-heading header-text">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h3>World of Tanks (Мир Танков)</h3>
+          <span class="breadcrumb"><a href="#">Home</a>  >  <a href="#">Shop</a>  >  World of Tanks (Мир Танков)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="single-product section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="left-image">
+            <img src="/media/game_preview_image/1677002725_cover.jpg" alt="">
+          </div>
+        </div>
+        <div class="col-lg-6 align-self-center">
+          <h4>World of Tanks (Мир Танков)</h4>
+          <span class="price"><em>$66</em> $33</span>
+          <p>Дата обновления: 2023
+Жанр: Action, Tank, 3D, Online-only
+Разработчик: Wargaming.net
+Издательство в России: Wargaming.net
+Платформа: PC
+Тип издания: Лицензия
+Язык интерфейса: Русский
+Язык озвучки: Русский
+Таблетка: Не требуется</p>
+          <a href="#" onclick="downloadCountButton(this)" data-game_id="9" download="game_torrent_file/world_of_tanks_install_eu_cz1bvgx67eez.exe" class="btn btn-success" type="submit"><i class="fa-solid fa-download"></i> Download 16 Гб</button>
+
+          <ul>
+            <li><span>Views:</span> 60</li>
+            <li><span>Genre:</span> <a href="#"></a></li>
+            <li><span>Downloaded:</span> 0</li>
+            <li><span>Character:</span> Системные требования:
+Операционная система: XP / Vista / 7 / 8 / 10
+Процессор: Pentium 4 2,4 GHz
+Оперативная память: 4 Гб
+Видеокарта: 512 Mb - 1024 Mb / nVIDIA / ATI Radeon®
+Звуковая карта: Звуковое устройство DirectX® 9.0с
+Свободное место на жестком диске: 16 Гб</li>
+          </ul>
+        </div>
+        <div class="col-lg-12">
+          <div class="sep"></div>
+        </div>
+      </div>
+     <div class="triller">
+      <center>
+        <iframe width="1000" height="500" src="https://www.youtube.com/embed/OJtJ2U48v_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </center>
+     </div>
+     <div class="col-lg-12">
+      <div class="sep"></div>
+
+      
+      <div class=" row screenshots">
+        
+        <div class="col-4 mb-3">
+          <img class="img-fluid" src="/media/game_screenshot_image/1498328073_f24c47f2-9aad-41d5-8efb-195b4d417e5c.jpg" alt="">
+        </div>
+        
+        <div class="col-4 mb-3">
+          <img class="img-fluid" src="/media/game_screenshot_image/1498328029_cb1c2662-776b-4e7d-b44d-cdcf150e6c3b.jpg" alt="">
+        </div>
+        
+        <div class="col-4 mb-3">
+          <img class="img-fluid" src="/media/game_screenshot_image/1498328031_afe8e917-6edf-4c1e-9299-be81bd6d8466.jpg" alt="">
+        </div>
+        
+      </div>
+
+
+      <div class="col-lg-12">
+        <div class="sep"></div>
+        
+    </div>
+    </div>
+  </div>
+
+  
+  <div class="more-info">
+    <div class="container">
+      <div class="section-heading text-center">
+        <h4>Reviews</h4>
+      </div>
+      <div class="row border pt-4 shadow pb-4">
+        
+        <div class="col-lg-12">
+        
+            <div class="card p-2 bg-secondary">
+              
+              <div class="border p-2 mb-3">
+                
+                <span> ADMIN </span>
+                
+              <p class="fs-5 text-white">sfdsc
+</p>
+              </div>
+              
+              <div class="border p-2 mb-3">
+                
+              <p class="fs-5 text-white">zor oyin🥷🥷</p>
+              </div>
+              
+            </div>
+        </div>
+        
+        
+        
+        <div class="col-lg-12">
+          <form method="post" action="/game_reviews/9/" class="pt-4">
+            <input type="hidden" name="csrfmiddlewaretoken" value="T08unDh2zJ05mGu1xduZ1YDumlOnbsfl8py6hrDMxxWpMtSYdrTsJzxU9Dr8F4Zl">
+            <textarea class="form-control mb-3" name="review_message" cols="30" rows="10"></textarea>
+            <button class="btn btn-primary">Yuborish</button>
+          </form>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+
+  
+    
+    <footer>
+    <div class="container">
+      <div class="col-lg-12">
+        <p>Copyright © 2048 LUGX Gaming Company. All rights reserved. &nbsp;&nbsp; <a rel="nofollow" href="https://templatemo.com" target="_blank">Design: TemplateMo</a></p>
+      </div>
+    </div>
+  </footer>
+
+    <script src="/static/vendor/jquery/jquery.min.js"></script>
+    <script src="/static/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/assets/js/isotope.min.js"></script>
+    <script src="/static/assets/js/owl-carousel.js"></script>
+    <script src="/static/assets/js/counter.js"></script>
+    <script src="/static/assets/js/custom.js"></script>
+    <script src="/static/index.js"></script>
+
+    
+  </body>
+</html>
